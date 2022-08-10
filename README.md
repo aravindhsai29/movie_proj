@@ -1,17 +1,9 @@
 <<<<<<< HEAD
 # Movie_theatre
 =======
-# Introduction
+# My notes
+Code Changes have been made to accomodate below instructions, further changes can be made and can be refactored more based on users interpretation and feedback, it currently does what it is supposed to do.It adds the discount, display the schedule and the total fee once reservation has been made(the discounted amount).
 
-This is a poorly written application, and we're expecting the candidate to greatly improve this code base.
-
-## Instructions
-* **Consider this to be your project! Feel free to make any changes**
-* There are several deliberate design, code quality and test issues in the current code, they should be identified and resolved
-* Implement the "New Requirements" below
-* Keep it mind that code quality is very important
-* Focus on testing, and feel free to bring in any testing strategies/frameworks you'd like to implement
-* You're welcome to spend as much time as you like, however, we're expecting that this should take no more than 2 hours
 
 ## `movie-theater`
 
